@@ -1,0 +1,5 @@
+{
+  "name": "oh-my-antigravity",
+  "version": "1.0.0",
+  "description": "Multi-agent orchestration plugin for Antigravity CLI, featuring OMA Team, Autopilot, and Deep Interview workflows."
+}
